@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71401" started-at="2016-09-24T10:40:33Z" finished-at="2016-09-24T10:41:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71401" started-at="2016-09-24T10:40:33Z" finished-at="2016-09-24T10:41:44Z">
+      <class name="com.srivastava.datadrivenframework.LoginTest">
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String)[pri:0, instance:com.srivastava.datadrivenframework.LoginTest@224edc67]" name="testLogin" duration-ms="25302" started-at="2016-09-24T16:10:33Z" data-provider="excelData" finished-at="2016-09-24T16:10:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amit123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String)[pri:0, instance:com.srivastava.datadrivenframework.LoginTest@224edc67]" name="testLogin" duration-ms="23311" started-at="2016-09-24T16:10:59Z" data-provider="excelData" finished-at="2016-09-24T16:11:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String)[pri:0, instance:com.srivastava.datadrivenframework.LoginTest@224edc67]" name="testLogin" duration-ms="22477" started-at="2016-09-24T16:11:22Z" data-provider="excelData" finished-at="2016-09-24T16:11:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shyam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shyam123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- com.srivastava.datadrivenframework.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
